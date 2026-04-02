@@ -22,6 +22,12 @@
         "timestamp": 1775173709.8437026,
         "by": "AutoMod",
         "source": "automod"
+      },
+      {
+        "reason": "AutoMod: Prohibited language (Severity 3 - bypass attempt)",
+        "timestamp": 1775173716.1212785,
+        "by": "AutoMod",
+        "source": "automod"
       }
     ]
   }
