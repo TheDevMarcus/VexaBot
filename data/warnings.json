@@ -14,5 +14,15 @@
         "source": "automod"
       }
     ]
+  },
+  "1435794390671953970": {
+    "1378451753263038496": [
+      {
+        "reason": "AutoMod: Prohibited language (Severity 3)",
+        "timestamp": 1775173709.8437026,
+        "by": "AutoMod",
+        "source": "automod"
+      }
+    ]
   }
 }
