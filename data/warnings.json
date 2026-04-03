@@ -12,6 +12,12 @@
         "by": "AutoMod",
         "source": "automod",
         "timestamp": "2026-04-03 10:17:07 CDT"
+      },
+      {
+        "reason": "AutoMod: Prohibited language (Severity 3 - bypass attempt)",
+        "by": "AutoMod",
+        "source": "automod",
+        "timestamp": "2026-04-03 10:17:43 CDT"
       }
     ]
   }
