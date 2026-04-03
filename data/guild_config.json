@@ -3,6 +3,15 @@
     "916947814498566186": false
   },
   "1439859304411828286": {
-    "log_channel": 1489344385974800745
+    "log_channel": 1489344385974800745,
+    "welcome_embed": {
+      "title": "",
+      "description": "",
+      "big_image": "member_avatar",
+      "big_image_url": "",
+      "thumbnail": "server_icon",
+      "thumbnail_url": "",
+      "color": "2450411"
+    }
   }
 }
