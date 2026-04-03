@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "vip_tag",
+      "name": "\u2b50 VIP Tag",
+      "description": "A shiny VIP tag in your profile.",
+      "price": 500,
+      "emoji": "\u2b50"
+    },
+    {
+      "id": "lucky_charm",
+      "name": "\ud83c\udf40 Lucky Charm",
+      "description": "+5% blackjack win bonus for 1 hour.",
+      "price": 250,
+      "emoji": "\ud83c\udf40"
+    },
+    {
+      "id": "double_down",
+      "name": "\ud83c\udfb0 Double Down Pass",
+      "description": "Auto-win one blackjack tie.",
+      "price": 300,
+      "emoji": "\ud83c\udfb0"
+    },
+    {
+      "id": "color_role",
+      "name": "\ud83c\udfa8 Color Role",
+      "description": "Custom color role (contact admin).",
+      "price": 1000,
+      "emoji": "\ud83c\udfa8"
+    },
+    {
+      "id": "xp_boost",
+      "name": "\u26a1 XP Boost",
+      "description": "Double coins earned for 24 hours.",
+      "price": 400,
+      "emoji": "\u26a1"
+    }
+  ]
+}
