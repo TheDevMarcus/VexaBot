@@ -1,7 +1,7 @@
 {
-  "shutdown": true,
-  "title": "Server Issues",
-  "description": "We are currently experiencing issues with our servers. Please try again later.",
+  "shutdown": false,
+  "title": "",
+  "description": "",
   "presence": "dnd",
   "status_text": ""
 }
