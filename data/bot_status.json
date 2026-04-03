@@ -2,6 +2,6 @@
   "shutdown": false,
   "title": "",
   "description": "",
-  "presence": "idle",
+  "presence": "offline",
   "status_text": ""
 }
